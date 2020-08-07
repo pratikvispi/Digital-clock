@@ -1,0 +1,17 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body{
+    background-color: #121212;
+}
+
+#clock{
+    font-family: 'Orbitron','sans-serif';
+    color: greenyellow;
+    font-size: 66px;
+    text-align: center;
+    padding-top: 290px;
+    padding-bottom: 40px;
+    text-shadow: 2px 2px blueviolet;
+    
+}
